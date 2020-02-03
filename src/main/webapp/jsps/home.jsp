@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to A2 Technologies.</h1>
+<h1 align="center">Welcome to CHANDERTechnologies.</h1>
 <h1 align="center">DevOps with AWS...</h1>
 <hr>
 <div style="text-align: center;">
