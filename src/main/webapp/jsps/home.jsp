@@ -29,7 +29,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>A2 Technologies - Consultant, Training, Development Center.</p>
+<p align=center>A2 Technologies - Consultant,Development Center</p>
 <p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">A2 Technologies</a> </small></p>
 
 </body>
